@@ -1,2 +1,3 @@
 # EXchange-Range-Convertor-Pack-1.0
-This aplication is for calculate Exchange range CZK to EUR and EUR to CZK.
+The Exchange range convertor is application that is using wifi to connect the servers for intime Exchange range CZK to EUR and EUR to CZK.
+The Exchange range converotr LITE is application that is NOT using wifi but it can Exchange range CZK to EUR and EUR to CZK.
